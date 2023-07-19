@@ -1,0 +1,21 @@
+hr{
+  width:800px;
+}
+body{
+  color:white;
+  background:#20639B; font-family:sans-serif}
+ol{
+  list-style-type:upper-alpha;
+}
+#i1{
+  text-align:center;
+  font-size:55px;
+}
+.row{
+  display: flex;
+}
+#b2{
+  border-left: 2px solid white;
+  padding-left: 18px;
+  margin-left: 10px;
+}
